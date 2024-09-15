@@ -4,7 +4,7 @@
 
 A terminal that uses Gemini API for more performance compared to website.
 
-`pip install -r reqs.txt` to download required libraries
+`pip install -r requirements.txt` to download required libraries
 
 Open `setup.py` to setup
 
