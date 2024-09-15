@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/39b6aa5e-3012-47cb-9221-8e6ea2ddf3c0)
 
-Picture by: @eclipsecodes
+Picture by: @eclipsecodes (Discord username)
 
 A terminal that uses Gemini API for more performance compared to website.
 
