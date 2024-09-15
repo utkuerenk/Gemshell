@@ -1,4 +1,4 @@
-# Gemterminal
+# Gemshell
 
 ![image](https://github.com/user-attachments/assets/39b6aa5e-3012-47cb-9221-8e6ea2ddf3c0)
 
